@@ -1,10 +1,10 @@
 import React from 'react'
-import { Signup as Signupcomponents} from '../componenets/Signup'
+import  Signupcomponnts from '../componenets/Signup'
 
 const Signup = () => {
   return (
     <div className = "py-8 ">
-        <Signupcomponents/>
+        <Signupcomponnts/>
     </div>
   )
 }
