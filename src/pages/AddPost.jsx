@@ -1,7 +1,7 @@
 import React from "react";
 import Container from "../componenets/container/container";
 
-import PostForm from "../componenets/post-from/PostFrom";
+import PostForm from "../componenets/post-from/PostForm";
 
 function AddPost() {
   return (
