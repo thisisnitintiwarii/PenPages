@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
 import appwriteService from "../appwrite/config";
-import Container from "../componenets/container/container";
+import Container from "../components/container/container";
 
-import Button from "../componenets/Button";
+import Button from "../components/Button";
 import parse from "html-react-parser";
 import { useSelector } from "react-redux";
 

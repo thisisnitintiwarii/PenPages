@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import appwriteService from "../appwrite/config";
-import Container from "../componenets/container/container";
-import PostCard from "../componenets/PostCard";
+import Container from "../components/container/container";
+import PostCard from "../components/PostCard";
 import { Link } from "react-router-dom";
 
 function Home() {
